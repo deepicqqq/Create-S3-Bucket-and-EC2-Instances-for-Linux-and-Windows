@@ -1,5 +1,6 @@
 ### CREATE S3 BUCKET AND EC2 INSTANCES FOR LINUX AND WINDOWS
 ### REG NUMBER : 212223240024
+### NAME : DEEPIKA P
 #### AIM :
 To create an S3 bucket and EC2 instances for both Linux and Windows operating systems on AWS.
 
@@ -38,15 +39,15 @@ Connect to the Linux instance using SSH.
 Connect to the Windows instance using RDP.
 
 ## OUTPUT
-![Screenshot 2024-11-18 181406](https://github.com/user-attachments/assets/121a83e1-367b-4c2c-a369-910285b5696b)
-![Screenshot 2024-11-18 181451](https://github.com/user-attachments/assets/52d81ebe-574e-487e-90cc-3c80582c43b1)
-![Screenshot 2024-11-18 181500](https://github.com/user-attachments/assets/9d422dfd-1eb6-4fbe-b7a2-8a1e8683371d)
-![Screenshot 2024-11-18 181517](https://github.com/user-attachments/assets/1eb0167c-f827-470e-8c80-dca447c095d4)
-![Screenshot 2024-11-18 181530](https://github.com/user-attachments/assets/5c76be70-492c-4b06-b4d5-36b656dce71f)
-![Screenshot 2024-11-18 181545](https://github.com/user-attachments/assets/2c080d37-8847-4227-bcc6-568b02fb1b57)
+![Screenshot 2024-11-20 130236](https://github.com/user-attachments/assets/790ea23e-3956-4e99-bb95-b10de855b1ed)
+![Screenshot 2024-11-20 130241](https://github.com/user-attachments/assets/68b43b4f-9edc-44a8-a632-06cbf4ee7469)
+![Screenshot 2024-11-20 130247](https://github.com/user-attachments/assets/f5d24e33-dbae-436d-8952-4a016ccc0d57)
+![Screenshot 2024-11-20 130253](https://github.com/user-attachments/assets/f5f46f87-f4a4-4e92-a97e-c813e8f0fbef)
+![Screenshot 2024-11-20 130258](https://github.com/user-attachments/assets/40555f86-47ed-4e58-8283-da03531d5d41)
+![Screenshot 2024-11-20 130311](https://github.com/user-attachments/assets/f2279677-a156-419b-bc81-177c580cbd4e)
+![Screenshot 2024-11-20 130316](https://github.com/user-attachments/assets/445a4adf-611e-4141-87f0-056d16207beb)
 
-
-##RESULT
+## RESULT
 Successfully created an S3 bucket and EC2 instances for both Linux and Windows, demonstrating cloud resource management on AWS.
   
 
